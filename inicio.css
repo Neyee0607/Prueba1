@@ -9,14 +9,5 @@
     padding: 1rem;
     font-family: Arial, Helvetica, sans-serif;
 }
-.headerTop ul{
-   display: flex;
-}
-.headerTop ul li{
-    margin: 0 1rem;
-    padding: 0 1rem;
- }
- .headerTop ul li:hover{
-  border:2px white;
- }
+
 
